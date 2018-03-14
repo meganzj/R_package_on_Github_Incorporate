@@ -9,6 +9,7 @@
 # go to the r package location on github, download the zip file. I am using the "XYZ" package as an example. 
 #     --- file downloaded as "XYZ-master.zip"
 #     --- move "XYZ-master.zip" to folder "E:/source". You can choose your own directory.
+#     --- unzip.
 
 ## STEP 2.
 # run below command on R consle which would create the package under your default directory
